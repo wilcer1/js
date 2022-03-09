@@ -16,14 +16,14 @@ class question {
     }
   }
 class question1 extends question {
-    super()
+    super();
 
 }
-class question2 extends question {
-    super()
+// class question2 extends question {
+//     super()
 
-}
-class question3 extends question {
-    super()
+// }
+// class question3 extends question {
+//     super()
 
-}
+// }
