@@ -57,7 +57,7 @@ function validateinput(){
     }else if(q3.toLowerCase() == "stockholm"){
         points++;
     }
-    alert(points)
+    alert(`You scored ${points} out of 3 points`)
 }
 
 
